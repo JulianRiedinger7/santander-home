@@ -1,0 +1,10 @@
+#fondo_home{
+    background-image: url(../Ilustracion.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover;
+}
+
+.texto_seguridad{
+    font-size: 14px;
+}
